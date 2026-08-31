@@ -7,8 +7,10 @@ This Repository Contain :
 4- Interface Dashboard Screenshot.
 5- Data Exported from solution.
 
-All Data Used in this application is open access data can be found on link below:
--Dataset 1:  https://data.mendeley.com/datasets/cjb4vy4mzj/3 
--Dataset 2: https://zenodo.org/records/14827769
+All Data Used in this application are open access datasets can be found on link below:
+- Dataset 1:  https://data.mendeley.com/datasets/cjb4vy4mzj/3 
+- Dataset 2: https://zenodo.org/records/14827769
+
+
 
 
